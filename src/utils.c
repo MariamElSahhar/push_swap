@@ -6,11 +6,11 @@
 /*   By: melsahha <melsahha@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/22 17:37:23 by melsahha          #+#    #+#             */
-/*   Updated: 2023/04/12 18:17:08 by melsahha         ###   ########.fr       */
+/*   Updated: 2023/05/05 15:25:56 by melsahha         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "include/push_swap.h"
+#include "../include/push_swap.h"
 
 char	*append_free(char *s1, char *s2)
 {

@@ -6,11 +6,11 @@
 /*   By: melsahha <melsahha@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/28 16:40:52 by melsahha          #+#    #+#             */
-/*   Updated: 2023/04/07 11:49:11 by melsahha         ###   ########.fr       */
+/*   Updated: 2023/05/05 15:25:56 by melsahha         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "include/push_swap.h"
+#include "../include/push_swap.h"
 
 char	*push_to_a(t_stack *a, t_stack *b, char *moves)
 {

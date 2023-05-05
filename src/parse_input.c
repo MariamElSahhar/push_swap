@@ -6,11 +6,11 @@
 /*   By: melsahha <melsahha@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/16 14:16:55 by melsahha          #+#    #+#             */
-/*   Updated: 2023/04/17 12:24:31 by melsahha         ###   ########.fr       */
+/*   Updated: 2023/05/05 15:25:56 by melsahha         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "include/push_swap.h"
+#include "../include/push_swap.h"
 
 int	are_ints(int c, char **v)
 {

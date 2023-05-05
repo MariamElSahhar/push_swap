@@ -6,11 +6,11 @@
 /*   By: melsahha <melsahha@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/20 20:24:44 by melsahha          #+#    #+#             */
-/*   Updated: 2023/04/17 12:26:36 by melsahha         ###   ########.fr       */
+/*   Updated: 2023/05/05 15:25:56 by melsahha         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "include/push_swap.h"
+#include "../include/push_swap.h"
 
 void	init_stack(t_stack *stack, int *input, char id, int size)
 {

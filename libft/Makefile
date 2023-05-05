@@ -6,14 +6,14 @@
 #    By: melsahha <melsahha@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/11/28 16:28:04 by melsahha          #+#    #+#              #
-#    Updated: 2023/05/05 15:00:45 by melsahha         ###   ########.fr        #
+#    Updated: 2023/05/05 15:26:17 by melsahha         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME = libftprintf.a
-INCL = ./include/
 CC= cc
 CFLAGS = -Wall -Werror -Wextra
+INCL = ./include/
 
 LIBFT = libft.a
 LIBFT_DIR = ./libft_src/

@@ -6,11 +6,11 @@
 /*   By: melsahha <melsahha@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/15 13:39:22 by melsahha          #+#    #+#             */
-/*   Updated: 2023/03/25 13:29:34 by melsahha         ###   ########.fr       */
+/*   Updated: 2023/05/05 15:25:56 by melsahha         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "include/push_swap.h"
+#include "../include/push_swap.h"
 
 void	push_bottom(t_stack *stack, t_node *node)
 {
