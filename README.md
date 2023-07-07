@@ -30,3 +30,7 @@ The program outputs a series of permitted operations to sort the numbers.
 - **rra** - Rotate stack A downward (shift all elements down by one, the last element becomes the first)
 - **rrb** - Rotate stack B downward (shift all elements down by one, the last element becomes the first)
 - **rrr** - Rotate both stack A and stack B downward
+
+### Performance
+You can measure performance by counting the number of operations the program used like so:  
+`./push_swap [numbers] | wc -l`  
